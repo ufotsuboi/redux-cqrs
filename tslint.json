@@ -15,6 +15,11 @@
         "singleQuote": true,
         "trailingComma": "all"
       }
-    ]
+    ],
+    "interface-name": false,
+    "member-access": false,
+    "no-console": { "severity": "warning" },
+    "object-literal-sort-keys": false,
+    "ordered-imports": false
   }
 }
